@@ -1,0 +1,16 @@
+{
+    "api_key": "YOUR_SERPER_API_KEY_HERE",
+    "pagespeed_key": "YOUR_GOOGLE_PAGESPEED_API_KEY_HERE",
+    "cities": [
+        "London",
+        "New York"
+    ],
+    "sectors": [
+        "Dental Clinic",
+        "Law Firm"
+    ],
+    "variations": [
+        "Services",
+        "Office"
+    ]
+}
